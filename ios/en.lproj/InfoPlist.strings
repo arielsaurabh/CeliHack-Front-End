@@ -1,0 +1,10 @@
+/* 
+  InfoPlist.strings
+  CeliHack
+
+  Created by Bin Zailani on 17/10/2016.
+  Copyright © 2016 Facebook. All rights reserved.
+*/
+"NSLocationWhenInUseUsageDescription" = "Want to see gluten free dishes that were uploaded by people with Celiac around you? Turn on your GPS!\nIf you don't, we won't be able to present GF restaurants in your location because we don't know where you are";
+
+

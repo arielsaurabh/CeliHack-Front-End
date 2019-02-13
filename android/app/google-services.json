@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "1085800255882",
+    "firebase_url": "https://celihack-146505.firebaseio.com",
+    "project_id": "celihack-146505",
+    "storage_bucket": "celihack-146505.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1085800255882:android:1e8523622589520d",
+        "android_client_info": {
+          "package_name": "com.ants.celihack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1085800255882-7k74v4rudokr85g011r5g5mi2omct5l8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ants.celihack",
+            "certificate_hash": "2BFC8061BDE2F780E390BA52FA51C90389045114"
+          }
+        },
+        {
+          "client_id": "1085800255882-va1anuppahe8idvaaanskgmsmrjbi85m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlJg9pYv_oxV3cFy2E2MOX-MTCHGJsOsY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1085800255882-va1anuppahe8idvaaanskgmsmrjbi85m.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1085800255882-iknljt3ujqse72ud9drkcc5m9j36efor.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ants.celihack"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,8 @@
+/* 
+  InfoPlist.strings
+  CeliHack
+
+  Created by Bin Zailani on 17/10/2016.
+  Copyright © 2016 Facebook. All rights reserved.
+*/
+"NSLocationWhenInUseUsageDescription" = "רוצה לראות המלצות על מנות ללא גלוטן שהעלו צליאקים בסביבה שלך? הפעל את ה- GPS! לא תוכל להשתמש באפליקציה בלי GPS  פעיל. הרי לא נוכל לראות לך מנות ללא גלוטן באזור שלך אם לא נדע איפה אתה!";

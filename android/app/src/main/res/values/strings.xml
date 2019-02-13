@@ -1,0 +1,10 @@
+<resources>
+
+
+
+
+
+    <string moduleConfig="true" name="reactNativeCodePush_androidDeploymentKey"></string>
+    <string name="app_name">CeliHack</string>
+    <string name="fb_app_id">171167763313503</string>
+</resources>
